@@ -1,0 +1,126 @@
+body{
+  background-color: rgba(31,41,55) !important;
+}
+.nav-style{
+  background-color: #252934d9;
+  opacity: 1.1;
+}
+.nav-bottom-style{
+  margin-top: 8rem;
+width: 100%;
+display: flex;
+justify-content: center;
+align-content: center;
+align-items: center;
+}
+.image-style{
+  width: 450px;
+  height: 90px;
+}
+.nav-bottom-content-style
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  margin-top: 4rem;
+  margin-bottom: 3rem;
+}
+.nav-bottom-content-style-subDiv
+{
+  margin-bottom: 1rem;
+}
+.nav-bottom-content-style-subDiv-content{
+  color: white;    
+  font-size: 36px;
+}
+.nav-bottom-content-style-subDiv-content-2nd{
+  font-size: 24px;
+  color: white;
+}
+.scroll-image{
+  border-radius: 100%;
+}
+.scroll-image-div
+{
+  padding : 12px 12px
+}
+.after-scroll-section{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  margin-bottom: 4rem;
+}
+.after-scroll-section-content{
+  color: white;font-size: 25px;
+}
+.after-scroll-section-button-div{
+  margin-top: 35px;
+  border: 11px solid #aba79b;
+  padding: 12px;
+  color: white !important;
+  border-style: groove;
+  border-radius: 17px;
+}
+.after-scroll-section-button{
+  text-decoration: none;
+  color: white !important;
+}
+.bottom-content-div-top{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  margin-bottom: 5rem;
+}
+.bottom-content-div-middle{
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  margin-top: 31px;
+  align-items: center;
+}
+.bottom-content-div-middle1-heading-1{
+  color: white;font-size: 19px
+}
+.bottom-content-div-middle-heading-1-sub{
+  color: white !important;
+  text-decoration: underline !important;
+  font-size: 12px;
+}
+.bottom-content-div-middle2{
+  color: white;
+  padding-left: 25px;    
+}
+.bottom-content-div-middle2-heading2{
+  font-size: 19px;
+}
+.bottom-content-div-bottom{
+  background-color: antiquewhite;
+  width: 135px;
+  margin-top: 2rem;
+  height: 43px;
+  display: flex;
+  margin-left: 20px;
+  border-radius: 8px;
+  align-items: center;
+  justify-content: center;
+}
+.bottom-content-div-bottom-btn{
+  text-decoration: none;
+  color: #242c32; 
+  font-size: 17px;
+  font-weight: 600;
+  color: rgba(31,41,55) !important;
+}
+.scroll-null::-webkit-scrollbar{
+  display: none;
+}
+.solve-by-extra-space{
+  margin-left: 0% !important;
+  margin-right: 0% !important;
+}

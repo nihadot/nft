@@ -44,7 +44,7 @@ align-items: center;
 }
 .scroll-image-div
 {
-  padding : 12px 12px
+  padding : 0px
 }
 .after-scroll-section{
   display: flex;
@@ -123,4 +123,14 @@ align-items: center;
 .solve-by-extra-space{
   margin-left: 0% !important;
   margin-right: 0% !important;
+  width: 97%;
+  padding: 0px 15px 0px 16px;
+}
+.img-for-banner{
+  box-shadow: 3px 5px 15px 9px #00000040;;
+  width: 530px;
+  filter: 1.1;
+  opacity: .9;
+  border-radius: 19px;
+  height: 125px;
 }
